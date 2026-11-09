@@ -76,7 +76,7 @@
 | --- | --- | --- |
 | `W132D_for_window刷机工具.zip` | RKDevTool v3.37 + `loader.bin` + `rk3528/MiniLoaderAll.bin` | [123 云盘](https://1853261401.share.123pan.cn/123pan/q6HYvd-AlJsv) |
 | `w132d驱动_DriverAssitant_v5.13.zip` | 瑞芯微 USB 驱动（不装电脑不认设备） | [123 云盘](https://1853261401.share.123pan.cn/123pan/q6HYvd-uqesv) |
-| `w132dfnos固件.zip` | 解压得到 `fnos-w132d-v12.img`（3.59 GB） | [123 云盘]https://1853261401.share.123pan.cn/123pan/q6HYvd-Kqesv|
+| `w132dfnos固件.zip` | 解压得到 `fnos-w132d-v12.img`（3.59 GB） | [123 云盘](https://1853261401.share.123pan.cn/123pan/q6HYvd-Kqesv)|
 | `W132D刷机后续批处理.zip` | 刷完之后跑的 `1~7` 号批处理（本仓库） | [123 云盘](https://1853261401.share.123pan.cn/123pan/q6HYvd-mBJ2v) |
 | `flash/loader.bin` | 备用 loader（和工具包自带的那份内容不同，仅在自带 loader 不认设备时换着试） | 本仓库 `flash/` 目录 |
 
