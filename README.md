@@ -47,7 +47,7 @@
 | --- | --- | --- |
 | `W132D_for_window刷机工具.zip` | RKDevTool v3.37（含 `loader.bin`、`rk3528/MiniLoaderAll.bin`）+ 本教程 | <https://1853261401.share.123pan.cn/123pan/q6HYvd-AlJsv> |
 | `w132d驱动_DriverAssitant_v5.13.zip` | 瑞芯微 USB 驱动，Windows 装完才认设备 | <https://1853261401.share.123pan.cn/123pan/q6HYvd-uqesv> |
-| `w132dfnos固件.zip` | 飞牛 fnOS 镜像 `fnos-w132d-v12.img`（3.59 GB） | <https://1853261401.share.123pan.cn/123pan/q6HYvd-9lJsv> |
+| `w132dfnos固件.zip` | 飞牛 fnOS 镜像 `fnos-w132d-v12.img`（3.59 GB） | <https://1853261401.share.123pan.cn/123pan/q6HYvd-Kqesv> |
 | `W132D刷机后续批处理.zip` | 刷完之后要跑的 `1~7` 号批处理 | <https://1853261401.share.123pan.cn/123pan/q6HYvd-mBJ2v> |
 
 下载顺序建议：先下工具 + 驱动（几十 MB，马上能开始装），固件 3.59 GB 挂后台慢慢下，
