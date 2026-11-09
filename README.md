@@ -363,4 +363,5 @@ MaskROM 是 SoC 内部固化的，刷写失败、断电、刷错镜像都破坏�
 
 > 镜像不含飞牛官方安装包以外的闭源组件；`flash/loader.bin` 是 Rockchip 原厂 USB loader，
 > 版权归 Rockchip（见 `flash/COPYING.rkbin`），仅用于让 MaskROM 进入可读写 eMMC 的状态。
-刷完下一步批处理教程：我的博客：https://www.320826.xyz/2026/11/w132d-hdmi-usb-wifi.html
+## 刷完下一步批处理教程：
+参照我的博客：https://www.320826.xyz/2026/11/w132d-hdmi-usb-wifi.html
