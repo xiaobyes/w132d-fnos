@@ -279,7 +279,7 @@ v12 用的是 Radxa E20C 的设备树，硬件差异都还在。
 →  4-WiFi无线.bat  →  5-屏蔽升级.bat  →  6-检查状态.bat  →  7-分配空间.bat
 ```
 
-顺序和原因见 [README.md](README.md)。**先把 `config.bat` 里的 IP 和账号改成你自己的。**
+顺序和原因见 [参照我的博客](https://www.320826.xyz/2026/11/w132d-hdmi-usb-wifi.html)。**先把 `config.bat` 里的 IP 和账号改成你自己的。**
 
 ---
 
